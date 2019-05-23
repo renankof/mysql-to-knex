@@ -1,0 +1,14 @@
+{
+  "name": "sql_to_knex",
+  "version": "1.0.0",
+  "description": "Tools to easily migrate MySQL schemas to Knex migration files",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Leads2b",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
